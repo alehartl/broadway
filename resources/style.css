@@ -22,3 +22,22 @@ ul a{
 .header{
   background-image: url("./images/the-flatiron-building.png")
 }
+
+.process{
+  font-family: helvetica;
+  text-align: center;
+}
+
+.process h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.process h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.process p{
+  font-size: 14px;
+}
