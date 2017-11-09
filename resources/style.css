@@ -1,0 +1,15 @@
+html{
+  text-align: center
+  font-family: helvetica;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+}
+
+ul{
+  list-style-type: none;
+  font-size: 18px;
+  text-decoration: underline;
+}
